@@ -1,4 +1,12 @@
-# ember-frost-dashboard
+[ci-img]: https://img.shields.io/travis/ciena-frost/ember-frost-dashboard.svg "Travis CI Build Status"
+[ci-url]: https://travis-ci.org/ciena-frost/ember-frost-dashboard
+[cov-img]: https://img.shields.io/coveralls/ciena-frost/ember-frost-dashboard.svg "Coveralls Code Coverage"
+[cov-url]: https://coveralls.io/github/ciena-frost/ember-frost-dashboard
+[npm-img]: https://img.shields.io/npm/v/ember-frost-dashboard.svg "NPM Version"
+[npm-url]: https://www.npmjs.com/package/ember-frost-dashboard
+  
+# ember-frost-dashboard <br /> [![Travis][ci-img]][ci-url] [![Coveralls][cov-img]][cov-url] [![NPM][npm-img]][npm-url]
+
 
 This README outlines the details of collaborating on this Ember addon.
 
